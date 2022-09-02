@@ -1,7 +1,37 @@
 body{
     text-align: center;
-   
+   background-color: #472D2D;
+   font-family: 'Raleway', sans-serif;
 }
 h1{
-    font-size: 3.5rem;
+    font-size: 7rem;
+    color:#C1EFFF;
+    margin: 4% 4%;
+}
+div{
+    padding: 0;
+}
+h4{
+    font-size: 4rem;
+}
+
+.foot{
+    padding: 6%;
+    font-size: 1.5rem;
+    color:azure;
+}
+p{
+    font-family: cursive ;
+}
+.btn{
+    font-size: 1.5rem;
+}
+.min{
+    color:green;
+}
+.sec{
+    color:red;
+}
+.ms{
+    color:aliceblue;
 }
